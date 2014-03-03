@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/address_settings"
+        android:orderInCategory="100"
+        android:title="@string/mac_settings"/>
+    
+    <item
+        android:id="@+id/pin_settings"
+        android:orderInCategory="100"
+        android:title="@string/pin_settings"/>
+
+</menu>
